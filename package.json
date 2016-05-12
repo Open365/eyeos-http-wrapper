@@ -1,6 +1,6 @@
 {
   "name": "eyeos-http-wrapper",
-  "version": "1.1.30",
+  "version": "1.1.31",
   "author": "eyeOS",
   "description": "A wrapper with enhanced methods of node's http core module",
   "main": "./src/eyeos-http-wrapper.js",
